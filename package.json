@@ -6,7 +6,7 @@
   "author": "Shreyas_D",
   "license": "ISC",
   "dependencies": {
-    "@mediapipe/pose": "0.4.1624666670",
+    "@mediapipe/pose": "^0.4.1624666670",
     "@tensorflow-models/pose-detection": "0.0.3",
     "@tensorflow/tfjs-converter": "^3.7.0",
     "@tensorflow/tfjs-core": "^3.7.0",
